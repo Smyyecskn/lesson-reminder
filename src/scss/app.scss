@@ -1,0 +1,13 @@
+@import "./reset.scss";
+
+body {
+  background-image: linear-gradient(
+    to right,
+
+    rgb(61, 138, 232),
+    purple,
+    pink,
+    hotpink
+  );
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}

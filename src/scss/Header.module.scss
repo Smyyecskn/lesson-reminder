@@ -1,0 +1,20 @@
+.header {
+  color: aliceblue;
+  margin-top: 2rem;
+
+  img {
+    height: 2rem;
+    width: 12rem;
+    margin-left: 20px;
+    background-image: linear-gradient(
+      to right,
+      rgb(218, 218, 134),
+      rgb(221, 128, 128)
+    );
+    display: block;
+  }
+  h2 {
+    text-align: center;
+    margin-top: 2rem;
+  }
+}
